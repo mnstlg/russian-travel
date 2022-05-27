@@ -3,7 +3,7 @@
   line-height: 18px;
   color: #fff;
   text-decoration: none;
-  transform: 2s easy-in;
+  transition: 2s ease-in;
   margin-right: 18px;
 }
 

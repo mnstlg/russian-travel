@@ -3,17 +3,17 @@
   line-height: 14px;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  margin: 8px 0 92px;
+  margin: 4px 0 92px;
 }
 
 @media screen and (max-width: 1023px) {
   .lead__caption {
-    margin: 8px 0 88px 24px;
+    margin: 4px 0 84px 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .lead__caption {
-    margin: 8px 0 64px 16px;
+    margin: 4px 0 64px 16px;
   }
 }
